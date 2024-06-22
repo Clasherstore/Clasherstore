@@ -6,59 +6,83 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SONY SPORTS2
 http://xtv.ooo:8080/live/Israr947/541974/109984.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SONY SPORTS3 http://xtv.ooo:8080/live/Israr947/541974/109985.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SONY SPORTS3
+http://xtv.ooo:8080/live/Israr947/541974/109985.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", ZDF
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7757d3fa8cdab673a2dd9f3ed7b41360:96e498b70eeecfc0164ed4e0a78e36f3
 https://p7s1-live-001-prod.akamaized.net/45371d5a/t_009/zdf-de-hd/cenc-default.mpd
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", HRT2 http://xtv.ooo:8080/live/Israr947/541974/349348.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", BBC http://xtv.ooo:8080/live/Israr947/541974/346279.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", ITV http://xtv.ooo:8080/live/Israr947/541974/346293.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", HRT2
+http://xtv.ooo:8080/live/Israr947/541974/349348.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", BBC
+http://xtv.ooo:8080/live/Israr947/541974/346279.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", ITV
+http://xtv.ooo:8080/live/Israr947/541974/346293.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SKY SPORT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 https://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31917/FHD/skysport251/master.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", RTBF
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a8315e4b64c4e638dc24d93134b9b2d:2821b54058fb3adc9c6252c631aef9e5
 https://daiconnect.com/live/dash/rtbf/laune-premium-drm-2/.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", PRO TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=889750ca612844cfabc4073989befa3e:c188729c59e29bedafc1cbedaa107abb
 https://m7rovideolive.solocoo.tv/blueskylivedash/blueprotv/Manifest.mpd
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",BNT http://xtv.ooo:8080/live/Israr947/541974/348811.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",ERT http://152.89.62.76:8880/DAALM686/axaaCkkRXs/31207
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", YLE http://xtv.ooo:8080/live/Israr947/541974/349882.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",BNT
+http://xtv.ooo:8080/live/Israr947/541974/348811.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",ERT
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/31207
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", YLE
+http://xtv.ooo:8080/live/Israr947/541974/349882.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", TV2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bfb0134de69d76d25b5b4b202df11431:025915bd3062c4bde44a13916c5bfefe
 https://aws-appeartv-cdn.rikstv.no/rikstv/1/11/dash/TV2_HD/manifest.mpd?version=1&adap=no_dolby&RikstvAssetId=rikstv_5711
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", TV6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=58cf48fdf76849ae9eda44bf8b1506b2:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV6_LT_HD_HVC/GO3_LIVE_DASH_AVC/TV6_LT_HD_HVC.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", M4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=317aef79ab54447caaeecfec10c9b196:4d9fee9624bf32274cb407afd3d5d248
 https://m7rovideolive.solocoo.tv/blueskylive2dash/bluem4sport/Manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SKY SPORT CALCIO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0036e5d0e88dfb087f1791da6150ced9:0bc653d830837dceb13bd17169f0f8e2
 https://linear301-it-dash1-prd-akp1.cdn13.skycdp.com/016a/31209/FHD/skysportseriea/master.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",group-title="EURO 2024" TRT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=68d756e8c6cc76d178859547b8f8016d:84f65dbdae77e35cfede6df28b68ab31
 https://switch-api.tvplus.com.tr/pl/176.235.2.71:80/izmottrrs.tvplus.com.tr/PLTV/88888888/224/3221229477/3221229477.mpd?rrsip=izmottrrs.tvplus.com.tr:443&zoneoffset=0&devkbps=190-2750&servicetype=1&limitflux=-1&limitdur=-1&tenantId=9001&accountinfo=NqBFibyCqiK9VZTj227v5L0yqmZ%2BgbmgPNtQmahQ3BVm93dgZuk6pmqqNsOk7xYR5jXlGTb4rB6ajwzNkgh9yWoOE1sF9WOHCctkfqlgUu680aE%2FkXF8BRSDJBMctj2quSR0uZb0KZ4GFAntvKi%2FyKxP5Y7OnDca7%2F8ZEPnhT02E%2BHpHwwb9AzQr7%2FtpY3bC%3A20230213214717%3AUTC%2C%2C%2C20230213214717%2Curn%3AHuawei%3AliveTV%3A001300000008479123%2C%2C-1%2C0%2C1%2C%2C%2C2%2C497%2C%2C%2C2%2C%2C0%2C%2C%2C%2C%2C2%2C1%2C100001988%2CEND&GuardEncType=2&from=31&validdev=5271,5273&hms_devid=5271&pbf=2_2_1_2226527801&vqe=3&it=H4sIAAAAAAAAAzXMsQrCMBCA4bfpeDRJPdshk1JwCULVVa6XawjEFtNa8O2lovv__UsmltPRotkPpCtsuNEVM_dItfe9UpqlRo3FLE83WVMwpRTH4Ca_sVt3uKsSjALcgTHFZdu1iYItv6V7PXrJFv-sk7xGFuvnAVaagULIEmiJ0wjnRO9rTr_kA6k2vr2ZAAAA&uid=u629xzy8LUaQOScZcrFCPg&srv=cGwtYW5rLXMwOS50dnBsdXMuY29tLnRy&sw_h1=_tFGF3I3g0BMplkaKdIcUw&srv2=cGwtYW5rLXMwNS50dnBsdXMuY29tLnRy&sw_h2=EByiBth6v4ad4ivGRBF_4Q&proxy=true
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", MATCH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -66,12 +90,14 @@ https://switch-api.tvplus.com.tr/pl/176.235.2.71:80/izmottrrs.tvplus.com.tr/PLTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5e1c798b16d24dc8cbfc7819abf77b4d:4ba5d9aeba2239b425d1cf7b45474333
 https://video.beeline.tv/live/d/channel317.isml/manifest-stb.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", MCOT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", THAIRATH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",MATCH PREMIERE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -79,41 +105,78 @@ https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb7b314771ed5eeddd8f44a9aa42740:01f2a8f11bd891655a752c1749f478ec
 https://video.beeline.tv/live/d/channel318.isml/manifest-stb.mpd
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",RTS1 http://xtv.ooo:8080/live/Israr947/541974/353644.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",TVP SPORT http://xtv.ooo:8080/live/Israr947/541974/352816.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",LA1 #KODIPROP:inputstream.adaptive.license_type=clearkey
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",RTS1
+http://xtv.ooo:8080/live/Israr947/541974/353644.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",TVP SPORT
+http://xtv.ooo:8080/live/Israr947/541974/352816.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",LA1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
 https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",LA2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0 https://cache3.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",FS1 http://xtv.ooo:8080/live/Israr947/541974/347289.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORT TV1 http://xtv.ooo:8080/live/Israr947/541974/352930.m3u8 
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SUPERSPORT PREMIER http://xtv.ooo:8080/live/Israr947/541974/353956.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",BEIN SPORT1 http://xtv.ooo:8080/live/Israr947/541974/349905.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",FS1
+http://xtv.ooo:8080/live/Israr947/541974/347289.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORT TV1
+http://xtv.ooo:8080/live/Israr947/541974/352930.m3u8 
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SUPERSPORT PREMIER
+http://xtv.ooo:8080/live/Israr947/541974/353956.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",BEIN SPORT1
+http://xtv.ooo:8080/live/Israr947/541974/349905.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",PPTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",CCTV5 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",ESPN http://xtv.ooo:8080/live/Israr947/541974/348112.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",CCTV5+ https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",BEIN SPORT2 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/2829
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",TVA SPORT http://xtv.ooo:8080/live/Israr947/541974/349019.m3u8
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",CCTV5
+https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",ESPN
+http://xtv.ooo:8080/live/Israr947/541974/348112.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",CCTV5+
+https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",BEIN SPORT2
+http://152.89.62.76:8880/DAALM686/axaaCkkRXs/2829
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",TVA SPORT
+http://xtv.ooo:8080/live/Israr947/541974/349019.m3u8
+
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SKY SPORT UNO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORTSTARS 3 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORTSTARS 3
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORTSTARS 4 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SUPERSPORT MAXIMO http://xtv.ooo:8080/live/Israr947/541974/353954.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp", CBC SPORT http://xtv.ooo:8080/live/Israr947/541974/348291.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORTSTARS 4
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SUPERSPORT MAXIMO
+http://xtv.ooo:8080/live/Israr947/541974/353954.m3u8
+
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp", CBC SPORT
+http://xtv.ooo:8080/live/Israr947/541974/348291.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

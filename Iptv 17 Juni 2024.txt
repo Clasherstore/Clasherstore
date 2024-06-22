@@ -3,7 +3,8 @@
 
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
 
-#EXTM3U #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SONY SPORTS2 http://xtv.ooo:8080/live/Israr947/541974/109984.m3u8
+#EXTM3U #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SONY SPORTS2
+http://xtv.ooo:8080/live/Israr947/541974/109984.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", SONY SPORTS3 http://xtv.ooo:8080/live/Israr947/541974/109985.m3u8
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024", ZDF
 #KODIPROP:inputstream.adaptive.license_type=clearkey

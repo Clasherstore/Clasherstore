@@ -92,7 +92,24 @@ https://cache3.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31 https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",CCTV5 https://node3.olelive.com:6443/live/CCTV5HD/hls.m3u8
-#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",ESPN http://xtv.ooo:8080/live/Israr947/541974/348112.m3u8 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",CCTV5+ https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",BEIN SPORT2 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/2829 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",TVA SPORT http://xtv.ooo:8080/live/Israr947/541974/349019.m3u8 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",SKY SPORT UNO #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://visionplus.id #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",SPORTSTARS 3 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz #EXTVLCOPT:http-referrer=https://visionplus.id #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",SPORTSTARS 4 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",SUPERSPORT MAXIMO http://xtv.ooo:8080/live/Israr947/541974/353954.m3u8 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp", CBC SPORT http://xtv.ooo:8080/live/Israr947/541974/348291.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",ESPN http://xtv.ooo:8080/live/Israr947/541974/348112.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",CCTV5+ https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",BEIN SPORT2 http://152.89.62.76:8880/DAALM686/axaaCkkRXs/2829
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",TVA SPORT http://xtv.ooo:8080/live/Israr947/541974/349019.m3u8
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SKY SPORT UNO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORTSTARS 3 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp" group-title="EURO 2024",SPORTSTARS 4 https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+#EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp",SUPERSPORT MAXIMO http://xtv.ooo:8080/live/Israr947/541974/353954.m3u8 #EXTINF:-1 tvg-logo="https://bit.ly/40NTLDp", CBC SPORT http://xtv.ooo:8080/live/Israr947/541974/348291.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz

@@ -51,6 +51,10 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="Indonesia Channels",SCTV 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
+
+#EXTINF:-1 tvg-id="SCTV FINAL U19 - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/sctv.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/SCTV_Logo.png/1280px-SCTV_Logo.png" group-title="Indonesia Channels",SCTV FINAL U19
+https://lebo.huminbird.cn/live/sd-6MsGQAjHzj811SquiW.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="Indonesia Channels",Indosiar
 https://raw.githubusercontent.com/Iqbalbala/STBDIGITAL/main/Indosiar.m3u8
 

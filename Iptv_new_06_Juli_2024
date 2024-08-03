@@ -1,6 +1,12 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:-1 group-title="OLIMPIADE PARIS 2024" tvg-id="Teledeporte" tvg-logo="https://i.ibb.co/mbwFfNY/tdp.png",TDP 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
+
+
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/Qk3G5k3/eurosp1.png" group-title="OLIMPIADE PARIS 2024", EUROSPORT 1 🇦🇿
 #EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
 http://edge02.odtv.az/o7/eurosport/playlist.m3u8

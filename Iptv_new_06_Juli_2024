@@ -1,6 +1,10 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26ng" group-title="Sports Live", Bayern vs Spurs
+https://bf.yunnankmln.com/live/sd-1-4138223_hd01.m3u8?txSecret=0da5ebec2259d75f6046536e4f11490c&txTime=66ae22a5
+
+
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="OLIMPIADE PARIS 2024",True Premiere 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/

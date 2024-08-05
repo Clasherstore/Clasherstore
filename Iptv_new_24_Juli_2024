@@ -1,36 +1,6 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/acfrk26ng" group-title="Sports Live", Bayern vs Spurs
-https://bf.yunnankmln.com/live/sd-1-4138223_hd01.m3u8?txSecret=0da5ebec2259d75f6046536e4f11490c&txTime=66ae22a5
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="OLIMPIADE PARIS 2024",True Premiere 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
-https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
-
-
-#EXTINF:-1 group-title="OLIMPIADE PARIS 2024" tvg-id="Teledeporte" tvg-logo="https://i.ibb.co/mbwFfNY/tdp.png",TDP 🇪🇸
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
-https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
-
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/Qk3G5k3/eurosp1.png" group-title="OLIMPIADE PARIS 2024", EUROSPORT 1 🇦🇿
-#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o7/eurosport/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWr5NsB/rtshsport.png" group-title="OLIMPIADE PARIS 2024", RTSH SPORT 🇦🇱
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
-https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MBycKrP/qazsport.png" group-title="OLIMPIADE PARIS 2024", QAZSPORT 🇰🇿
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -74,6 +44,117 @@ https://melon-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #EXTINF:-1 group-title="MOTOGP F1" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_308.png",SPOTV2
 https://melon-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/j4qaqxhnqwijf63/truepremierfootball4.png" group-title="🏆Olympics | Paris 2024",True Premiere 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+https://www.livedoomovies.com:4431/02_PremierHD4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="🏆Olympics | Paris 2024" tvg-id="Teledeporte" tvg-logo="https://i.ibb.co/mbwFfNY/tdp.png",TDP 🇪🇸
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
+
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.ibb.co/Qk3G5k3/eurosp1.png" group-title="🏆Olympics | Paris 2024", EUROSPORT 1 🇦🇿
+#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o7/eurosport/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/ZWr5NsB/rtshsport.png" group-title="🏆Olympics | Paris 2024", RTSH SPORT 🇦🇱
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"87c154e8e6934177b428a2a0fa5ac800":"2c036503c395aa3046956bd1eafe21e1","faad00102fbe44b39dd1c630aebf6500":"bdd28f4dc9f55f73fda58d80b1a35548"}
+https://tring.s.llnwi.net/delta/101/out/u/rtshsportottencryption.mpd
+3
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/MBycKrP/qazsport.png" group-title="🏆Olympics | Paris 2024", QAZSPORT 🇰🇿
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://bkm.beetv.kz/btv/live/hls/000003038.m3u8
+
+
+#EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",PPTV HD | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/036_pptv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+ 
+#EXTINF:-1 tvg-chno="41" tvg-id="pptv.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",PPTV FHD | THAI
+http://appdootv2.dootvde.com:1935/live/50026_pptv_hd.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="CH7 HD" tvg-id="CH7 HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", CH7 HD | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/035_7HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+ 
+#EXTINF:-1 tvg-chno="39" tvg-id="ch7.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",CH7 | THAI
+http://appdootv2.dootvde.com:1935/live/50003_ch7.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-chno="30" tvg-id="mcot.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",MCOT HD | THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+http://appdootv2.dootvde.com:1935/live/50004_ch9.stream.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-name="MCOT HD" tvg-id="MCOT HD.th" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", MCOT | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/030_mcothd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+ 
+#EXTINF:-1 tvg-chno="9" tvg-id="tsports.iptv36.my.to" group-title="🏆Olympics | Paris 2024" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",T-Sports7 | THAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8
+ 
+ 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",true-premier-HD3 | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/603_eng3./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+ 
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",true-premier-HD5 | THAI
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/604_eng5/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+ 
+ 
+#EXTINF: tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024"0,SuperSport
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=3338&extension=ts&play_token=qd3YdQyvFS
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Blitz
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14962&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Football
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14960&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Golf
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14959&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport LaLiga
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14956&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Premier League
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=14955&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport Tennis
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18533&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg",group-title="🏆Olympics | Paris 2024",SuperSport MaXimo
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18534&extension=ts
+ 
+#EXTINF:0 tvg-name="AF | SUPERSPORTS VARIETY 01" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024", SuperSport Variety 1
+http://kstv.us:8080/live/tH300gvHff/8606073792/47628.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 2
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18685&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 3
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18916&extension=ts
+ 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",SuperSport Variety 4
+http://sulu.xyz:2086/play/live.php?mac=00:1A:79:B1:E3:57&stream=18917&extension=ts
+ 
+ 
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",EUROSPORT 1
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+ 
+#EXTINF:-1 tvg-id="Sport1.sk" tvg-logo="https://i.ibb.co.com/D7xvM0M/paris.jpg" group-title="🏆Olympics | Paris 2024",EUROSPORT 2
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
 
 
 <====================== Indonesia Channel ======================>
@@ -537,47 +618,47 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch309)/index.m3u
 #EXTINF:-1 tvg-id="HitsMovies.sg" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://raw.githubusercontent.com/hendroagung2904/LOGO/main/Hits%20Movies.png" group-title="Premium Movies",HitsMovies
 https://melon-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
 
-
- 
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",HBO (Maxstream)
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",HBO (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
  
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="Premium Movies",HBO Family (Maxstream)
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",HBO Family (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
  
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="Premium Movies",HBO Hits (Maxstream)
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",HBO Hits (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
  
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Premium Movies",HBO Signature (Maxstream)
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",HBO Signature (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
  
-#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="Premium Movies",CINEMAX (Maxstream)
+#EXTINF:-1 tvg-id="CINEMAX" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",CINEMAX (Maxstream)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="Premium Movies",Cinemax
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayveee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",Cinemax
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
+ 
+
  
 
 
@@ -2202,34 +2283,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO Group",204-Cinemax 
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="HBO HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="HBO Group",205-HBO (MAXSTREAM)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbofamily/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="HBO Group",206-HBO Family (MAXSTREAM)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbohits/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO Group",207-HBO Hits (MAXSTREAM)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://m.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO Group",208-HBO Signature (MAXSTREAM)
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
-
 
 
 <======================= Internet Radio ===============================>
@@ -2602,7 +2655,7 @@ http://assista.pro:80/0333686557/Vilamariante1/125402
  
 #EXTINF:-1 tvg-id="TVSUKAN" group-title="SPORTS2" ch-number="111" tvg-logo="https://dl.dropbox.com/s/pd5a9ic6kdnjznu/SUKAN_RTM.jpg",SUKAN RTM
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my
-# https://rtmspo,KI88d.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
+# https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
  
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/massxi2j5fj1qo8/unifi.png" group-title="SPORTS2",Unifi 1 (UFC live) 
@@ -3099,314 +3152,3 @@ https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU9
 https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
 https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
-
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml,"refresh="3600"
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml,"refresh="3600"
-#EXTM3U x-url-tvg="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml"
-
-# Join Telegram Group: https://t.me/pikotv
-# =======================================================
-# Playlist Name: My Playlist by Mataram TV
-# Last Update: 2024-07-18 22:08:43 UTC+07 ICT
-# =======================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sesukyole/logo/main/pikotv.png" group-title="PTV | Live",Join Telegram PIKOTV
-https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
-
-#EXTM3U
-#EXTINF:-1 #EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",CCTV1
-http://124.205.11.202:91/live/CCTV1hd-8M/live.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Culture and Tourism
-http://221.0.78.198:1681/hls/10219/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Variety Show
-http://221.0.78.198:1681/hls/10220/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Education
-http://221.0.78.198:1681/hls/10221/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong News
-http://221.0.78.198:1681/hls/10222/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Agricultural Science
-http://221.0.78.198:1681/hls/10223/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Sports
-http://221.0.78.198:1681/hls/10224/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Qilu
-http://221.0.78.198:1681/hls/10225/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Life
-http://221.0.78.198:1681/hls/10226/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shandong Children
-http://221.0.78.198:1681/hls/10227/index.m3u8
-#EXTINF:-1 group-title="PTV | Chinese" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jinan News Comprehensive HD
-http://221.0.78.198:1681/hls/10279/index.m3u8
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Love Nature
-http://47.129.55.183:5000/4gtv/139
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Car Fans TV
-http://47.129.55.183:5000/4gtv/160
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Happy Space Home Channel
-http://47.129.55.183:5000/4gtv/168
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Sanli General Channel
-http://47.129.55.183:5000/4gtv/169
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",LUXE TV
-http://47.129.55.183:5000/4gtv/175
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",My Cinema Europe HD My European Movies
-http://47.129.55.183:5000/4gtv/176
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TV5MONDE Style
-http://47.129.55.183:5000/4gtv/178
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Rock Action
-http://47.129.55.183:5000/4gtv/180
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TechStorm
-http://47.129.55.183:5000/4gtv/181
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Pet Club TV
-http://47.129.55.183:5000/4gtv/182
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Nickelodeon
-http://47.129.55.183:5000/4gtv/185
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",HITS Channel
-http://47.129.55.183:5000/4gtv/186
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",LiveABC Interactive English Channel
-http://47.129.55.183:5000/4gtv/188
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Classic Movie Channel
-http://47.129.55.183:5000/4gtv/201
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Classic Cartoon Channel
-http://47.129.55.183:5000/4gtv/202
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Selected Anime Channel
-http://47.129.55.183:5000/4gtv/204
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Da Ai TV
-http://47.129.55.183:5000/4gtv/209
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Movie Fans Digital Documentary Channel
-http://47.129.55.183:5000/4gtv/212
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",MTV Live HD Music Channel
-http://47.129.55.183:5000/4gtv/213
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",History Channel
-http://47.129.55.183:5000/4gtv/214
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",CI Crime Investigation Channel
-http://47.129.55.183:5000/4gtv/215
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Lifetime Entertainment Channel
-http://47.129.55.183:5000/4gtv/217
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Movie Soundtrack Channel CMusic
-http://47.129.55.183:5000/4gtv/218
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Nick Jr. Children's Channel
-http://47.129.55.183:5000/4gtv/219
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",SBN Global Financial Channel
-http://47.129.55.183:5000/4gtv/224
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",CinemaWorld
-http://47.129.55.183:5000/4gtv/225
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",DW German Voice
-http://47.129.55.183:5000/4gtv/226
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Sanli News
-http://47.129.55.183:5000/4gtv/229
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Da Ai TV 2
-http://47.129.55.183:5000/4gtv/230
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",MOMO Parenting Channel
-http://47.129.55.183:5000/4gtv/231
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",CNBC Asia Financial Channel
-http://47.129.55.183:5000/4gtv/235
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jin Guang Puppet Show
-http://47.129.55.183:5000/4gtv/236
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",ELTA Lifestyle and Travel
-http://47.129.55.183:5000/4gtv/237
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Watch free dramas on 2 channels
-http://47.129.55.183:5000/4gtv/244
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Watch free movies on 2 channels
-http://47.129.55.183:5000/4gtv/245
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Rolling Power Rollor
-http://47.129.55.183:5000/4gtv/249
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Global Trekker
-http://47.129.55.183:5000/4gtv/252
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Children's Cartoon Channel
-http://47.129.55.183:5000/4gtv/269
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Free Drama Channel 1
-http://47.129.55.183:5000/4gtv/270
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Indigenous TV Station
-http://47.129.55.183:5000/4gtv/273
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Fun Exploration Entertainment Station
-http://47.129.55.183:5000/4gtv/274
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Rock Entertainment
-http://47.129.55.183:5000/4gtv/275
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Fashion Sports X
-http://47.129.55.183:5000/4gtv/277
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Flower Series Classic Theater
-http://47.129.55.183:5000/4gtv/279
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",DreamWorks Animation
-http://47.129.55.183:5000/4gtv/282
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Bloomberg TV
-http://47.129.55.183:5000/4gtv/283
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TVBS Variety Channel
-http://47.129.55.183:5000/4gtv/284
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TVBS Taiwan Drama Channel
-http://47.129.55.183:5000/4gtv/285
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", Thunderbolt Puppet Show
-http://47.129.55.183:5000/4gtv/301
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", FTV Taiwan
-http://47.129.55.183:5000/litv/4gtv-4gtv001
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", FTV One
-http://47.129.55.183:5000/litv/4gtv-4gtv003
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", FTV Variety Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv004
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", Zhu Geliang Cabaret Show
-http://47.129.55.183:5000/litv/4gtv-4gtv006
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Zhongtian News Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv009
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Extraordinary News Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv010
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", Movie Fan Digital Movie Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv011
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Shina Huaren Documentary Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv013
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Globetrotter Traveler
-http://47.129.55.183:5000/litv/4gtv-4gtv016
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",AMC Favorite Movies
-http://47.129.55.183:5000/litv/4gtv-4gtv017
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Da Vinci Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv018
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", eight wonderful channels
-http://47.129.55.183:5000/litv/4gtv-4gtv034
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", eight major variety shows
-http://47.129.55.183:5000/litv/4gtv-4gtv039
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",CTV
-http://47.129.55.183:5000/litv/4gtv-4gtv040
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",China TV
-http://47.129.55.183:5000/litv/4gtv-4gtv041
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",PSTV Drama Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv042
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Hakka TV Station
-http://47.129.55.183:5000/litv/4gtv-4gtv043
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Cartoon Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv044
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingyang Drama Stage
-http://47.129.55.183:5000/litv/4gtv-4gtv045
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Comprehensive Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv046
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Japan Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv047
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Extraordinary Business Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv048
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Caichang Film and Drama Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv049
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TTV News
-http://47.129.55.183:5000/litv/4gtv-4gtv051
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",China TV News
-http://47.129.55.183:5000/litv/4gtv-4gtv052
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",GINX Esports TV
-http://47.129.55.183:5000/litv/4gtv-4gtv053
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Happy Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv054
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Film Studio
-http://47.129.55.183:5000/litv/4gtv-4gtv055
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", Taiwan TV Financial Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv056
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingyang Cartoon Nice Bingo
-http://47.129.55.183:5000/litv/4gtv-4gtv057
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Drama Stage
-http://47.129.55.183:5000/litv/4gtv-4gtv058
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Classica classical music
-http://47.129.55.183:5000/litv/4gtv-4gtv059
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Movie Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv061
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Yule Station
-http://47.129.55.183:5000/litv/4gtv-4gtv062
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian International Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv063
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", CTV Jingcai Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv064
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Jingtian Information Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv065
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TTV
-http://47.129.55.183:5000/litv/4gtv-4gtv066
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TVBS Brilliant Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv067
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TVBS Happy Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv068
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",ELTA Entertainment Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv070
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TVBS News Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv072
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TVBS
-http://47.129.55.183:5000/litv/4gtv-4gtv073
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",China Television News Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv074
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Mirror TV News Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv075
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",CatchPlay Movie Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv076
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",TraceSports
-http://47.129.55.183:5000/litv/4gtv-4gtv077
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Arirang TV
-http://47.129.55.183:5000/litv/4gtv-4gtv079
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",China Classic Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv080
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Trace Urban
-http://47.129.55.183:5000/litv/4gtv-4gtv082
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Mezzo Live
-http://47.129.55.183:5000/litv/4gtv-4gtv083
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Congress Channel 1
-http://47.129.55.183:5000/litv/4gtv-4gtv084
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Congress Channel 2
-http://47.129.55.183:5000/litv/4gtv-4gtv085
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Zhilin Sports Channel
-http://47.129.55.183:5000/litv/4g4gtv101
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",No.1 Commercial Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv104
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Zhongtian Asia Channel
-http://47.129.55.183:5000/litv/4gtv-4gtv109
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Dongsen News
-http://47.129.55.183:5000/litv/4gtv-4gtv152
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Dongsen Financial News
-http://47.129.55.183:5000/litv/4gtv-4gtv153
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",FTV
-http://47.129.55.183:5000/litv/4gtv-4gtv155
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",VOA Voice of America
-http://47.129.55.183:5000/litv/litv-ftv03
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", FTV Travel
-http://47.129.55.183:5000/litv/litv-ftv07
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",People's Television Film and Drama Channel
-http://47.129.55.183:5000/litv/litv-ftv09
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", Peninsula International News Channel
-http://47.129.55.183:5000/litv/litv-ftv10
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", FTV News
-http://47.129.55.183:5000/litv/litv-ftv13
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",i-Fun Anime Channel
-http://47.129.55.183:5000/litv/litv-ftv15
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",good news
-http://47.129.55.183:5000/litv/litv-ftv16
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Good News 2
-http://47.129.55.183:5000/litv/litv-ftv17
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Longhua Cartoon Channel
-http://47.129.55.183:5000/litv/litv-longturn01
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Longhua Film Channel
-http://47.129.55.183:5000/litv/litv-longturn03
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", BOSS Charming Station
-http://47.129.55.183:5000/litv/litv-longturn04
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Bosch Golf Table
-http://47.129.55.183:5000/litv/litv-longturn05
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Bos Golf 2
-http://47.129.55.183:5000/litv/litv-longturn06
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", BOSS Sports One
-http://47.129.55.183:5000/litv/litv-longturn07
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Bos Sports 2
-http://47.129.55.183:5000/litv/litv-longturn08
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Bos Tennis Table
-http://47.129.55.183:5000/litv/litv-longturn09
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", BOSS Infinity
-http://47.129.55.183:5000/litv/litv-longturn10
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Longhua Japan, Korea and Taiwan
-http://47.129.55.183:5000/litv/litv-longturn11
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Longhua Idol Channel
-http://47.129.55.183:5000/litv/litv-longturn12
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png", BOSS 2
-http://47.129.55.183:5000/litv/litv-longturn13
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",World News Channel
-http://47.129.55.183:5000/litv/litv-longturn14
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",World News Taiwan
-http://47.129.55.183:5000/litv/litv-longturn15
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Asia Travel Channel
-http://47.129.55.183:5000/litv/litv-longturn17
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Longhua Drama Stage
-http://47.129.55.183:5000/litv/litv-longturn18
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Smart Knowledge Desk
-http://47.129.55.183:5000/litv/litv-longturn19
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",ELTA Life English
-http://47.129.55.183:5000/litv/litv-longturn20
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Longhua Classic Channel
-http://47.129.55.183:5000/litv/litv-longturn21
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",Taiwan Drama Channel
-http://47.129.55.183:5000/litv/litv-longturn22
-#EXTINF:-1 group-title="PTV | Taiwan" tvg-logo="https://raw.githubusercontent.com/sesukyole/img/main/Pikotv.png",World Financial Channel
-http://47.129.55.183:5000/litv/litv-longturn23

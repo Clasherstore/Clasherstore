@@ -1,6 +1,8 @@
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 
+#EXTINF:0 tvg-id="MNCSports3.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1UGQ5AaRXBoo3m9FtFoR4F4na6HKYkzXZg&s" group-title="livebolla", LIVE CHELSEA VS REAL MADRID
+https://bf.qsj68.cn/live/322674_hd01.m3u8?txSecret=0e0015c54a25cd77fcdb6d49eba2009d&txTime=66b2b652
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

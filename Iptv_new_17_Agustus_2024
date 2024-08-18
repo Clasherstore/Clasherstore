@@ -3,6 +3,11 @@
 
 ================================================ TV TAMBAHAN ==================================
 
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_WdrgDhug7pu9_6j_uAiZoKHqon2hxEZXA&s" group-title="LIGA 1 INDONESIA",BALI UNITED VS SEMEN PADANG
+https://bf.kmingjl.com/live/5004388_hd01.m3u8?txSecret=63a8f33b6134514a32600b445ad8bd03&txTime=66c1b3f2
+
+
+
 #EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://iili.io/Jmo5WvV.png" group-title="LIGA PRANCIS 2024",Arena Sport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d

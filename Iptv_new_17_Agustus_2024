@@ -5,7 +5,7 @@
 
 #EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://iili.io/Jmo5WvV.png" group-title="LIGA INDO 2024",Arena Sport testes
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+#KODIPROP:inputstream.adaptive.license_key=0fdf600f92f128e5ab2dce00cff7b4487dc995565d63fe1ab97fe44cc7f05d73
 https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17623_stream.mpd
 
 

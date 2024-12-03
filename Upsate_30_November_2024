@@ -50,6 +50,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
+===cek===
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/FR4TC0TX/trans-tv.png" group-title="NASIONAL",Trans TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}

@@ -13,7 +13,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="NASIONAL", CNN Indo
+#EXTINF:-1 tvg-id="7" tvg-logo="https://dl.dropboxusercontent.com/s/3otsx9tmmh18aqn/cnnindo.png" group-title="NASIONAL", CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 

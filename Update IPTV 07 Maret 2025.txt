@@ -3,6 +3,12 @@
 https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 
+EUROPA LEAGUE
+
+#EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="RS| ARENA SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/644px-Europa_League_2021.svg.png?20220101200214" group-title="LIVE SPORT",EUROPA LEAGUE 1
+http://line.rs6ott.com:80/d069c29864/7f746c4baacc/110914
+
+
 LIGA ITALIA
 
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 1
@@ -17,6 +23,11 @@ MOTO GP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+LIGA CHAMPIONS
+
+#EXTINF:-1 tvg-id="LIGA CHAMPIONS 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" group-title="LIVE SPORT",LIGA CHAMPIONS 1
+https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="rcti hd" tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="Suport Kitkat",RCTI
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8

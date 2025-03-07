@@ -20,6 +20,8 @@ LIGA ITALIA
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
 
+#EXTINF:-1 tvg-id="" tvg-name="RS| ARENA SPORT 1 PREMIUM" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 2
+
 MOTO GP
 
 #EXTINF:-1 group-title="LIVE SPORT" tvg-logo="https://i0.wp.com/aksi.co/wp-content/uploads/2025/03/SH_logo_moto_gp.jpg",MOTO GP 1

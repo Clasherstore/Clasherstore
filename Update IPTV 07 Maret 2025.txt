@@ -18,6 +18,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #EXTINF:-1 tvg-id="LIGA BELANDA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/200px-Eredivisie_nieuw_logo_2017-.svg.png" group-title="LIVE SPORT",EREDIVISIE LIGA BELANDA 2
 https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png" group-title="LIVE SPORT" , EPL LIGA INGRIS 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mp
+
+
 EUROPA LEAGUE
 
 #EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="RS| ARENA SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/644px-Europa_League_2021.svg.png?20220101200214" group-title="LIVE SPORT",EUROPA LEAGUE 1

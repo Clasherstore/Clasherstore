@@ -32,6 +32,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="RS| ARENA SPORT 1 PREMIUM" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 2
 http://line.rs6ott.com:80/d069c29864/7f746c4baacc/801855
 
+#EXTINF:-1 tvg-id="" tvg-name="RS| ARENA SPORT 1 PREMIUM" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 3
+https://bf.jllivese.com/live/5004441_hd01.m3u8?txSecret=239b1e8711184d5eee896862fe0f11e3&txTime=67d6c7f2
 
 MOTO GP
 

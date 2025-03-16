@@ -7,10 +7,14 @@ CHAMPIONSHIP INGGRIS
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="LIVE SPORT",CHAMPIONSHIP INGGRIS 1
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
-EREDIVISIE LIGA BELANDA
-#EXTINF:-1 tvg-id="LIGA BELANDA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/200px-Eredivisie_nieuw_logo_2017-.svg.png" group-title="LIVE SPORT",EREDIVISIE LIGA BELANDA 1
-https://wp4-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000110_019562/go-dash-fhd-avc/NL_000110_019562.mpd?p=cik
+LIGA INGGRIS
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png" group-title="LIVE SPORT" , EPL LIGA INGRIS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 #EXTINF:-1 tvg-id="LIGA BELANDA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/200px-Eredivisie_nieuw_logo_2017-.svg.png" group-title="LIVE SPORT",EREDIVISIE LIGA BELANDA 2
 https://zekonew.iosplayer.ru/zeko/premium386/mono.m3u8
 
@@ -32,8 +36,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="RS| ARENA SPORT 1 PREMIUM" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 2
 http://line.rs6ott.com:80/d069c29864/7f746c4baacc/801855
 
-#EXTINF:-1 tvg-id="" tvg-name="RS| ARENA SPORT 1 PREMIUM" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 3
-https://bf.jllivese.com/live/5004441_hd01.m3u8?txSecret=239b1e8711184d5eee896862fe0f11e3&txTime=67d6c7f2
 
 MOTO GP
 
@@ -43,6 +45,9 @@ MOTO GP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+
 
 
 

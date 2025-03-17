@@ -24,6 +24,7 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)
 
 LIGA SPANYOL
 
+
 #EXTINF:-1 tvg-logo="https://gokepri.com/gokepri/uploads/2023/06/25DAB4BF-31B9-40F8-8C36-AB4F923D7C7D.png" group-title="LIVE SPORT", LA LIGA SPANYOL 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey

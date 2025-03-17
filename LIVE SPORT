@@ -5,14 +5,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 
 LIGA INGGRIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/JFASy6Fhgg80CcUZ7Hq_Gx2H954=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1136253/original/066368800_1455015503-PRM.jpg" group-title="LIVE SPORT" , EPL LIGA INGRIS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/453/large_2x/premier-league-logo-symbol-with-name-purple-design-england-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpgormat(webp)/kly-media-production/medias/1136253/original/066368800_1455015503-PRM.jpg" group-title="LIVE SPORT" , EPL LIGA INGRIS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn0-production-images-kly.akamaized.net/JFASy6Fhgg80CcUZ7Hq_Gx2H954=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1136253/original/066368800_1455015503-PRM.jpg" group-title="LIVE SPORT" , EPL LIGA INGRIS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/453/large_2x/premier-league-logo-symbol-with-name-purple-design-england-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpgormat(webp)/kly-media-production/medias/1136253/original/066368800_1455015503-PRM.jpg" group-title="LIVE SPORT" , EPL LIGA INGRIS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

@@ -44,6 +44,10 @@ LIGA CHAMPIONS
 #EXTINF:-1 tvg-id="LIGA CHAMPIONS 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" group-title="LIVE SPORT",LIGA CHAMPIONS 1
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
+
+
+
+
 LIGA ITALIA
 
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 1
@@ -52,6 +56,17 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="RS| ARENA SPORT 1 PREMIUM" tvg-logo="https://giloshop.com/media/magefan_blog/aaaaaaaaaaaaaaaaaaaaaa.PNG" group-title="LIVE SPORT",LIGA ITALIA 2
 http://line.rs6ott.com:80/d069c29864/7f746c4baacc/801855
+
+
+
+
+
+MMA
+
+#EXTINF:-1 tvg-name="" tvg-id="" group-title="LIVE SPORT" tvg-logo="https://h7.alamy.com/comp/PBW7GM/mma-mixed-martial-arts-grunge-rubber-stamp-on-white-background-vector-illustration-PBW7GM.jpg",MMA LIVE 1
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+
+
 
 
 MOTO GP

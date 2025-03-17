@@ -5,14 +5,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 
 LIGA INGGRIS
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png" group-title="LIVE SPORT" , EPL LIGA INGRIS 1
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/premier-league-logo-02-freelogovectors.net_.png" group-title="LIVE SPORT" , EPL LIGA INGRIS 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/28/1/premier-league-new-logo-png_seeklogo-286461.png" group-title="LIVE SPORT" , EPL LIGA INGRIS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/premier-league-logo-02-freelogovectors.net_.png" group-title="LIVE SPORT" , EPL LIGA INGRIS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey

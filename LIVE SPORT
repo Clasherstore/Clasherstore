@@ -60,10 +60,18 @@ EUROPA LEAGUE
 #EXTINF:-1 tvg-id="Arenasport1.rs" tvg-name="RS| ARENA SPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Europa_League_2021.svg/644px-Europa_League_2021.svg.png?20220101200214" group-title="LIVE SPORT",EUROPA LEAGUE 1
 http://line.rs6ott.com:80/d069c29864/7f746c4baacc/110914
 
+
+
+
+
 LIGA CHAMPIONS
 #EXTINF:-1 tvg-id="LIGA CHAMPIONS 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" group-title="LIVE SPORT",LIGA CHAMPIONS 1
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
 
+#EXTINF:-1 tvg-id="ESPN 6.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo_UEFA_Champions_League.png" group-title="LIVE SPORT",LIGA CHAMPIONS 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
 
 
 

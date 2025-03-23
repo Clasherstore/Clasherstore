@@ -4145,6 +4145,11 @@ https://ssc-5-enc.edgenextcdn.net/out/v1/99289eac5a7b4319905da595afbd792b/index.
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
+#EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="LIVE SPORT",KUALIFIKASI PIALA DUNIA 4
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
+https://dokko1new.iosplayer.ru/dokko1/premium571/mono.m3u8
+
+
 
 
 
@@ -4246,6 +4251,27 @@ MOTO GP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+
+
+
+
+EUFA NATIONS LEAGUE
+
+#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 3
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
+https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
+
 
 
 

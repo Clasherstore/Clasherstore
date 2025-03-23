@@ -148,5 +148,9 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-893
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 3
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE tes
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
+
+

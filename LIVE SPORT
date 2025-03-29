@@ -138,27 +138,14 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 EUFA NATIONS LEAGUE
 
-#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 2
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 3
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",EUFA NATIONS LEAGUE 2
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
 https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/640px-ESPN_wordmark.svg.png",ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f5836382452cdca1e1c8bf8b9a713534:7d261930c3309ed2b06d2abb34a64410
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(b30aa51e-97fa-4354-bb38-871fb360e984)/master.mpd
 
 

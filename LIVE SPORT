@@ -7,7 +7,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 
 
 
-EXTINF:-1,EREDIVISIE LIGA BELANDA 1
+#EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="LIVE SPORT",EREDIVISIE LIGA BELANDA 1
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
 https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
 
 #EXTINF:-1,EREDIVISIE LIGA BELANDA 2

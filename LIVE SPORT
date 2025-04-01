@@ -25,6 +25,11 @@ https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/
 #EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="LIVE SPORT",COPPA DEL REY 2
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,TV1 1🇪🇸
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
+
+#EXTINF:-1, TV1 2🇪🇸
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
 
 KUALIFIKASI PIALA DUNIA

@@ -1,3 +1,5 @@
+BUNDES LIGA
+
 #EXTINF:-1 tvg-id="Матч! Футбол 3 HD 🇷🇺" tvg-logo="https://id.m.wikipedia.org/wiki/Fu%C3%9Fball-Bundesliga#/media/Berkas%3ABundesliga_Logo_(2017).svg" group-title="LIVE SPORT",BUNDES LIGA JERMAN 1
 http://185.57.68.33/110/mpegts
 
@@ -8,16 +10,6 @@ CHAMPIONSHIP INGGRIS
 
 #EXTINF:-1 tvg-id="LIGA ITALIA 1" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/b/be/EFL_Championship_Logo.svg.png" group-title="LIVE SPORT",CHAMPIONSHIP INGGRIS 1
 https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=cb5874fc-6948-11ef-b8e3-ea3db3d97a96
-
-
-
-
-
-#EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-logo="https://assets.kompasiana.com/items/album/2023/11/17/inshot-20231117-051453274-655694a9ee794a12a71dd602.jpg" group-title="LIVE SPORT",EREDIVISIE LIGA BELANDA 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8
-https://zekonew.iosplayer.ru/zeko/premium379/mono.m3u8
-
-
 
 
 
@@ -141,15 +133,4 @@ MOTO GP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-
-
-
-
-UEFA NATIONS LEAGUE
-
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://cdn.footystats.org/img/competitions/international-uefa-nations-league.png" group-title="LIVE SPORT",UEFA NATIONS LEAGUE 1
-#EXTVLCOPT:http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Mobile/15E148 Safari/605.1.15/Clipbox+/2.2.8"
-https://dokko1new.iosplayer.ru/dokko1/premium91/mono.m3u8
-
 

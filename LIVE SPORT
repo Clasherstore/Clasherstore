@@ -16,16 +16,14 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 
 
 COPPA DEL REY
+
 #EXTINF:-1 tvg-id="SSC Extra 1 HD" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="LIVE SPORT",COPPA DEL REY 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecbc9e6fe6b145efb6658fb5cf7427f8:03c17e28911f71221acbc0b11f900401
 https://ssc-extra-1-enc.edgenextcdn.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1, Матч! 1 🇷🇺
+#EXTINF:-1 tvg-id="Матч! 🇷🇺" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="LIVE SPORT",COPPA DEL REY 2
 http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Матч! 2 🇷🇺
-http://185.23.80.29:8080/MATCH!_HD/index.m3u8?token=test
-
 
 
 

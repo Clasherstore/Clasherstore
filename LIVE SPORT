@@ -65,14 +65,14 @@ LIGA INGGRIS
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59ll-teams-illustration-free-vector.jpg-england-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpgormat(webp)/kly-media-production/medias/1136253/original/066368800_1455015503-PRM.jpg" group-title="LIVE SPORT" , EPL LIGA INGRIS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59" group-title="LIVE SPORT" , EPL LIGA INGRIS 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/274996388_5718451794845855_290833575759031550_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTJkh54yph7AD3MtoGIEJYpWSX3tmCFailZJfe2YIVqA3Sz2XG5bAk2LKp3ZGAkeyLSWkSaasMf175q31J2lw3&_nc_ohc=cRDr21aKF74Q7kNvwG_3bvO&_nc_oc=AdlyFFovf9ZEY5JlnsGv0HnFsiEXNLHdrp6vnyZTq--JUOjQDLX5E1zRWZqOpQtVubolDEEgj5AVpH3NJzIxdA6k&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=VCD3-QL06Oo-SgPhO6RR1g&oh=00_AYEJk73FGovxI-ZP6IAyJODKA5GIYM5WwNJRes3u9CZayg&oe=67F67A59-teams-illustration-free-vector.jpg-england-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpgormat(webp)/kly-media-production/medias/1136253/original/066368800_1455015503-PRM.jpg" group-title="LIVE SPORT" , EPL LIGA INGRIS 3
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://drive.google.com/file/d/13xQb9vgBHhzvz8bXrYCstqwQ5YZoqa_Y/view?usp=drivesdk" group-title="LIVE SPORT" , EPL LIGA INGRIS 3
 https://7pal.short.gy/ssportspl
 
 

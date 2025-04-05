@@ -72,6 +72,8 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
+#EXTINF:-1 tvg-id="Sky Sports Premier League" tvg-logo="https://images.seeklogo.com/logo-png/37/2/premier-league-logo-png_seeklogo-376575.pnggland-football-european-countries-football-teams-illustration-free-vector.jpg-england-football-european-countries-football-teams-illustration-with-white-background-free-vector.jpgormat(webp)/kly-media-production/medias/1136253/original/066368800_1455015503-PRM.jpg" group-title="LIVE SPORT" , EPL LIGA INGRIS 3 Sky Sports Premier League
+https://7pal.short.gy/ssportspl
 
 
 

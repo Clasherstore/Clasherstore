@@ -4631,9 +4631,6 @@
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-06-512.png" group-title="#.FERY IPTV",FeryIptv
-https://youtube.com/@feryiptv
-
 
 
 
@@ -19849,9 +19846,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live28-1080FHD.m3u8
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg",CNN International Asia Pacific
 https://cempedak-live-cdn.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JBX7TLY/logo-wa-whatsapp-300x300.png" group-title="#.joint premium HUB/WA 085794973101",0.REQ PLAYLIST 12K/BLN HUB/WA 085794973101
-https://youtube.com/@feryiptv
-
 
 #EXTINF:-1 group-title="NEWS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/703_1920x1080_HTV.png" ch-number="514",Sky News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -19888,9 +19882,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CNNIntHD/mpd/CNNIntHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f
 #EXTINF:-1 group-title="News" tvg-id="AlJazeeraEnglish.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.mncvision.id/userfiles/image/channel/aljazeera.png",Al Jazeera
 https://cempedak-live-cdn.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
-
-#EXTINF:-1 group-title="#.FERY IPTV" tvg-logo="https://www.pngall.com/wp-content/uploads/2017/05/Disclaimer-Symbol-PNG-Picture.png",#1. DISCLAIMER
-https://youtu.be/NX37M0ASems
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -20633,9 +20624,6 @@ http://live.serverstreaming.net:9340/kisifm
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
 
 <================================ Trial ============================>
-
-#EXTINF:-1 tvg-logo="https://triatmono.info/wp-content/uploads/2023/12/Red-Spark-vs-Pink-Spiders-banner-650x250.jpg" group-title="[ LIVE EVENT 🔴 ]",[17:00 WIB 08/04/2025] Red Sparks vs Pink Spider - KOVO V League Womens
-https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0001/fhsevbmnunr26yg17wj9j4kytled1knc20c3/playlist.m3u8?hdnts=st=1744105457~exp=1744137867~acl=*/fhsevbmnunr26yg17wj9j4kytled1knc20c3/*~hmac=346b5fb3ea85fa843b8db2d66c36e58e0e6e82363946f0e66d4f0e2c28f7db4f
 
 #EXTINF:-1 tvg-logo="https://cdn0-production-images-kly.akamaized.net/mT9KAUSfg2ZOmVeJspEtN8dY__0=/800x800/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/5180485/original/054779000_1743765694-Piala_Asia_U-17_2025_-_Timnas_Indonesia_U-17_Vs_Yaman_U-17_copy.jpg" group-title="[ LIVE EVENT 🔴 ]",[22.00 WIB 07/04/25] Indonesia U17 vs Yaman U17 - AFC U17 Asian Cup
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

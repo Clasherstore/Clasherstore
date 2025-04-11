@@ -4,10 +4,8 @@ https://bf.jllivese.com/live/322667_hd01.m3u8?txSecret=970ea0a6205179f3497f3ecd3
 
 
 BRI LIGA 1
-#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",BRI LIGA 1 LIVE
-https://bf.jllivese.com/live/322698_hd01.m3u8?txSecret=5fabe246451604327ea66e7c5c895d1a&txTime=67f7b2b4
-
-
+#EXTINF:-1 tvg-id="FEED" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/318489738_6137214292965035_9049754916048892385_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFv8s8TMh2ekeSqnJxcaSOT4XdIS9yK1Kjhd0hL3IrUqLyA_RkE-UYIE8rLHiql1qXCzXNdZZ9SnmOtzxZ3UsAB&_nc_ohc=mcqHsvMQq1sQ7kNvwGPLe0l&_nc_oc=Admy4i-z8s47nBoyyTuDxftIlJwyAgvEnD3Ql3_becZ0U38SJG5Xo40lF_AtkHrXqKKRG2ZKsUVXNdRuoaDUfqX6&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=yNakuazIPoMK0MtiF4LlCg&oh=00_AfGP6qeEqINudIdU29RmIJr3xkBUM3A0eqftrw6xgdR0iQ&oe=67FD60A9" group-title="#.LIVE SPORT",BRI LIGA 1 FEED LIVE 0
+https://bf.jllivesh.com/live/322698_hd01.m3u8?txSecret=da5b0a7d9f9c9bfb04547d44c2e4ff9a&txTime=67f9032d
 
 
 BUNDES LIGA
@@ -44,6 +42,18 @@ https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/socc
 
 #EXTINF:-1 tvg-id="TV1 🇪🇸" tvg-logo="https://asset.kompas.com/crops/fiOhupYBrwCxjInG2lRHH5alS4M=/0x28:832x583/750x500/data/photo/2017/10/25/2452976165.jpg" group-title="#.LIVE SPORT",COPPA DEL REY 4
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+
+
+
+
+
+EUROPA LEAGUE
+
+#EXTINF:-1 tvg-id="BEIN SPORT 1" tvg-url="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/469483156_1159338775556780_3625345218465925865_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEVK_fpO4Yd5EMeNBf8Dsi3uUcuGVkW0zq5Ry4ZWRbTOvslOONwamVf44x3-s7RlEwTCG7QCAxsjft0GZ_tC_yn&_nc_ohc=mNozwTuFUSYQ7kNvwHBLS6d&_nc_oc=AdlQhMbe8XrR7fozRRFv-wke5X05R0RUe_YXPMAvbursQFhx7JC6Zn__mEGwgLj9JlRvarigk3hTrs26I6EZtctZ&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=NwKzs3CpCgeOmMdibx2vJQ&oh=00_AYFPhXs3bpzwGLAHQOxGlZRMtCEWn3xv2gNHPjBQO7yu5A&oe=67F69D86" group-title="#.LIVE SPORT",EUROPA LEAGUE 1
+https://top1-cdnnew.newkso.ru/top1-cdn/W0svhc8oj7/mono.m3u8
+
+
+
 
 
 KUALIFIKASI PIALA DUNIA
@@ -108,7 +118,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/63a0e33a45264d000850ed7e/master.m3u
 
 
 
-
+LIGA SPANYOL
 
 #EXTINF:-1 tvg-id="LIGA SPANYOL 1" tvg-url="" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/469483156_1159338775556780_3625345218465925865_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEVK_fpO4Yd5EMeNBf8Dsi3uUcuGVkW0zq5Ry4ZWRbTOvslOONwamVf44x3-s7RlEwTCG7QCAxsjft0GZ_tC_yn&_nc_ohc=mNozwTuFUSYQ7kNvwHBLS6d&_nc_oc=AdlQhMbe8XrR7fozRRFv-wke5X05R0RUe_YXPMAvbursQFhx7JC6Zn__mEGwgLj9JlRvarigk3hTrs26I6EZtctZ&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=NwKzs3CpCgeOmMdibx2vJQ&oh=00_AYFPhXs3bpzwGLAHQOxGlZRMtCEWn3xv2gNHPjBQO7yu5A&oe=67F69D86" group-title="#.LIVE SPORT",LIGA SPANYOL 1
 https://top1-cdnnew.newkso.ru/top1-cdn/W0svhc8oj7/mono.m3u8
@@ -149,8 +159,6 @@ http://181.78.74.69:8000/play/a06q/index.m3u8
 Thai League
 #EXTINF:-1 tvg-id="FEED" group-title="#.LIVE SPORT" language="Español" tvg-logo="https://scontent.fmdc6-1.fna.fbcdn.net/v/t39.30808-6/461961763_1079960843486233_4844481965780950919_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGwpVH3_eOJ7GqSUpfBnF_7LJMc-AZEjZQskxz4BkSNlKRfoR3LFJQ5JTxZd2VriFIELVVrgR3T_wi_pum1_29W&_nc_ohc=9EzYoK0_htsQ7kNvwEkUb9C&_nc_oc=AdktptBV4qOJ2tWjdCYH8sapxnOY543nsZSxmTcgtVZ7xRBSr-1w0pBOTHjMu8PrNoQ&_nc_zt=23&_nc_ht=scontent.fmdc6-1.fna&_nc_gid=q7IBAifHJVNd6wxrBgqkNA&oh=00_AfFo9DqbqrUj1bANjBd_tNADm6snK0keC-pcphApbwH-sw&oe=67FD8560",THAI LEAGUE FEED
 https://bf.jllivese.com/live/322719_hd01.m3u8?txSecret=5c48d03aa4ea0919314240e4187c8566&txTime=67f7a466
-
-
 
 
 
